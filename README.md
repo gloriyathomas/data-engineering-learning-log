@@ -1,3 +1,14 @@
+
+Week	Focus Area	Topics	Hands-on Activities
+Week 1	Core Concepts & Python for Data Engineering	Data engineering lifecycle, Python basics (file handling, APIs, JSON, Pandas)	Jupyter/Colab notebooks for Python basics
+Week 2	Core Concepts & Python for Data Engineering	Hands-on: Read/write CSV, JSON, simple ETL in Python	Write a simple ETL pipeline in Python
+Week 3	Data Lakes & Storage	Data lakes, file formats (CSV, Parquet, Avro), S3/GCS storage	Store/retrieve Parquet files in local or cloud storage
+Week 4	Data Pipelines & ETL	ETL vs ELT, batch vs streaming, tools overview (Spark, dbt, SQL)	Build batch ETL job; write a dbt model
+Week 5	Data Pipelines & ETL	Build ETL job in Python, simple dbt model with Postgres or BigQuery	Run ETL on schedule with Airflow
+Week 6	Airflow Basics	Apache Airflow: DAGs, tasks, scheduling, running locally	Create and run DAGs, use Airflow UI
+Week 7	Orchestration + Monitoring	Logging, retries, alerting in Airflow, data quality checks	Add sensors and alerts to DAGs, monitor runs
+Week 8	Project & Resume Building	Capstone: API ingestion → data lake → Airflow DAG → warehouse	Build end-to-end project, document, and polish resume
+
 # 🛠️ Data Engineering Learning Log
 
 Welcome to my **90-day Data Engineering Learning Journey**!  
