@@ -57,4 +57,31 @@ See the `/week-*` folders for detailed entries.
 - [Modern Data Stack Guide](https://www.moderndatastack.xyz/)
 - [Awesome
 
+- Key Concepts Covered
+
+Topic	Details
+Role of a Data Engineer	Designs and builds systems for collecting, storing, and analyzing data.
+Typical Workflow	Ingest → Store → Transform → Orchestrate → Serve
+Key Responsibilities	- Building pipelines
+- Managing data warehouses
+- Ensuring data quality
+Tech Stack Overview	- Python
+- SQL
+- Airflow
+- Spark
+- Cloud platforms (AWS, GCP)
+Difference from Data Science	Engineers build the infrastructure; scientists analyze the data
+Career Path	Transition possible from software dev or analyst roles
+
+# Data Engineering - Day 1 Summary
+
+## Key Takeaways from Intro Video
+- Data Engineers focus on building and maintaining data infrastructure.
+- Work includes data ingestion, transformation, and orchestration.
+- Common tools: Python, SQL, Airflow, Spark, cloud services.
+- Essential for enabling analytics and machine learning.
+
+## Why Data Engineering?
+Data Engineering lays the foundation for all downstream data tasks. It ensures that analysts and data scientists have reliable, accessible, and clean data to work with.
+
 
